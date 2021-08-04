@@ -13,7 +13,7 @@ For installation and deployment, please [click here](https://candiceywu.github.i
 ## Usage
 The application includes navigation links that provide ease of use for redirecting to other sections below. The following image shows the web application's appearance:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](assets/images/screenshot.png).
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page](assets/images/screenshot.png)
 
 ---
 
